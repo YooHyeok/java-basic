@@ -20,7 +20,7 @@ public class ClassStart3 {
         Student student3;
         student3 = new Student(); // 학생 클래스를 실제 메모리에 만들고 변수에 할당한다.
         /* .을 통해 필드 접근 및 값 할당 */
-        student3.name = "학생2";
+        student3.name = "학생3";
         student3.age = 17;
         student3.grade = 70;
         System.out.println("이름:" + student1.name + " 나이:" + student1.age + " 점수:" + student1.grade);
