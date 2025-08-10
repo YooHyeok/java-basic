@@ -1,7 +1,5 @@
 package 섹션02_클래스와데이터.파트10_배열도입_리팩토링;
 
-import 섹션02_클래스와데이터.파트06_클래스도입.Student;
-
 public class ClassStart5 {
     public static void main(String[] args) {
 

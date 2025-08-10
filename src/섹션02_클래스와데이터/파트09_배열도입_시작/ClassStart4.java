@@ -1,7 +1,5 @@
 package 섹션02_클래스와데이터.파트09_배열도입_시작;
 
-import 섹션02_클래스와데이터.파트06_클래스도입.Student;
-
 public class ClassStart4 {
     public static void main(String[] args) {
 
