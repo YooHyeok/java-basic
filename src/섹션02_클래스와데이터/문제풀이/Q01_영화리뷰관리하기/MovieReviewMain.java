@@ -1,4 +1,4 @@
-package class1.ex;
+package 섹션02_클래스와데이터.문제풀이.Q01_영화리뷰관리하기;
 
 public class MovieReviewMain {
 

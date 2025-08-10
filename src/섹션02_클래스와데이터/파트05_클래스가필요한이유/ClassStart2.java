@@ -1,4 +1,4 @@
-package class1;
+package 섹션02_클래스와데이터.파트05_클래스가필요한이유;
 
 public class ClassStart2 {
     public static void main(String[] args) {

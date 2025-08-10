@@ -1,9 +1,9 @@
-package class1.ex;
+package 섹션02_클래스와데이터.문제풀이.Q03_상품주문시스템개발;
 
 public class ProductOrderMain {
     public static void main(String[] args) {
         // 여러 상품의 주문 정보를 담는 배열 생성
-        ProductOrder [] pos = new ProductOrder[3];
+        ProductOrder[] pos = new ProductOrder[3];
         // 상품 주문 정보를 `ProductOrder` 타입의 변수로 받아 저장
         ProductOrder po1 = new ProductOrder();
         po1.productName = "두부";
